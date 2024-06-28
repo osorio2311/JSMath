@@ -42,9 +42,6 @@ function crearBoton(){
 }
 
 //crear todo 
-
-
-
 function valorAbs(){
     crearInput1();
     crearBoton();
